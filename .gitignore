@@ -1,0 +1,27 @@
+# Build directories
+build/
+cmake-build-*/
+
+# IDE directories
+.vscode/
+.idea/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+# Media files (如果不想上传测试视频)
+*.mp4
+*.avi
+*.mkv
+*.flv
+*.mov
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+EOF
