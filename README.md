@@ -110,6 +110,7 @@ make -j$(nproc)
 ## 👤 作者
 
 - GitHub: [@jerryyang1208](https://github.com/jerryyang1208)
+- 知乎博客：https://www.zhihu.com/people/13-73-62-89-19
 
 ## ⭐ 致谢
 
