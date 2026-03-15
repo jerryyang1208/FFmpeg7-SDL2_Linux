@@ -1,0 +1,53 @@
+{
+    // 编辑器设置
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.h": "c",
+        "iostream": "cpp",
+        "queue": "cpp",
+        "thread": "cpp",
+        "mutex": "cpp",
+        "condition_variable": "cpp",
+        "atomic": "cpp",
+        "chrono": "cpp",
+        "iomanip": "cpp",
+        "algorithm": "cpp",
+        "cstdlib": "cpp",
+        "limits": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "new": "cpp",
+        "typeinfo": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "cmath": "cpp",
+        "ctime": "cpp"
+    },
+    
+    // CMake 设置
+    "cmake.configureOnOpen": true,
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.generator": "Unix Makefiles",
+    
+    // C/C++ 设置
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "C_Cpp.default.compilerPath": "/usr/bin/g++-13",
+    "C_Cpp.default.intelliSenseMode": "linux-gcc-x64",
+    "C_Cpp.errorSquiggles": "enabled",
+    
+    // 终端设置
+    "terminal.integrated.defaultProfile.linux": "bash",
+    
+    // 文件排除
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/build": true
+    },
+    
+    // 搜索排除
+    "search.exclude": {
+        "**/build": true
+    }
+}
