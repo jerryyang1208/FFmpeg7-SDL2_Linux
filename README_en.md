@@ -109,6 +109,7 @@ This project is for learning and exchange purposes only. FFmpeg and SDL2 are sub
 ## 👤 Author
 
 - GitHub: [@jerryyang1208](https://github.com/jerryyang1208)
+- Zhihu Blog：https://www.zhihu.com/people/13-73-62-89-19
 
 ## ⭐ Acknowledgements
 
